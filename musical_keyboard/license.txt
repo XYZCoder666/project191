@@ -1,0 +1,11 @@
+Model Information:
+* title:	Musical Keyboard
+* source:	https://sketchfab.com/3d-models/musical-keyboard-ae3dee84c9e54f8e88e90df0b45eda5c
+* author:	VyrianStudios (https://sketchfab.com/vynatic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Musical Keyboard" (https://sketchfab.com/3d-models/musical-keyboard-ae3dee84c9e54f8e88e90df0b45eda5c) by VyrianStudios (https://sketchfab.com/vynatic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
